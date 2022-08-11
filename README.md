@@ -29,4 +29,4 @@ Search for a recipe by entering a keyword ;
 (https://jasweenbrar.github.io/Tasty-Treats/)
 
 ✔️ Our website looks like :
-!(./images/websiteimage.png)
+![website image](./images/websiteimage.png)
