@@ -22,10 +22,11 @@ Search for a recipe by entering a keyword ;
  ⭐ Learnt how to find recipe instructions on query.
  
  
- We are fetching data from ().
+ We are fetching data from (https://developer.edamam.com/edamam-docs-recipe-api).
 
 
 ✔️ Deployment on github, link :
-
+(https://jasweenbrar.github.io/Tasty-Treats/)
 
 ✔️ Our website looks like :
+(./images/websiteimage.png)
