@@ -10,7 +10,6 @@ Search for a recipe by entering a keyword ;
 
  A live image gallery website using simple
  * HTML 
- * CSS 
  * Bootstrap 
  * JAVASCRIPT
  * EDAMAM API
