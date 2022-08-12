@@ -8,7 +8,7 @@ Search for a recipe by entering a keyword ;
 💠 *Search results include name of recipe, its image, calorie count and link to view recipe*
 
 
- A live image gallery website using simple
+ A recipe finder website built using simple
  * HTML 
  * Bootstrap 
  * JAVASCRIPT
